@@ -1,0 +1,6 @@
+{
+  "plugins": ["simple-import-sort", "typescript-eslint/eslint-plugin"],
+  "parser": "typescript-eslint/parser",
+  "extends": "eslint:recommend",
+  "settings": { "react": { "version": "detect" } }
+}
